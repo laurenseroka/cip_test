@@ -1,3 +1,3 @@
-# cip_test
+# CIP Project
 
-A space where I can test things
+This will be a page for recording information about the project
